@@ -1,5 +1,5 @@
 # Blog-Website
-Blog Website (EJS, Node.js, Express.js, Lodash)
+Blog Website (EJS, Node.js, Express.js, Lodash , MongoDB)
 
 Home page with an already added Blog ==>
 
